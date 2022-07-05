@@ -3,7 +3,7 @@
 
 Simple macro processor. It will expand MACROs defined in source code and create a new source file.
 
-![example](https://media.giphy.com/media/l0IylQXXjX4IvOPAs/giphy.gif)
+
 #### Notice
 stmp will change the layout of code, especially spacing and tabs hence it should not be used along with languages like python.
 
